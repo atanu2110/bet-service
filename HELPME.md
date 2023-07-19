@@ -34,6 +34,6 @@ docker run -p 8086:8086 bet-service
 
 The app will start running at <http://localhost:8086>
 
-## Api Documentation (Swagger)
+## Api Documentation ( Swagger )
 
 <http://localhost:8086/swagger-ui/#/>
